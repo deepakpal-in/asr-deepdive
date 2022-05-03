@@ -6,7 +6,7 @@ This repository will discuss the Azure Site Recovery for a faster and better und
 
 ## Sections
 
-[Documentation](/documents/ASR_Introduction.md)
+[Documentation](/documents/)
 
 Automation Scripts
 
@@ -14,4 +14,5 @@ Design Documents
 
 FAQ
 
-References
+[References](/References/)
+
