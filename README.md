@@ -14,5 +14,5 @@ Design Documents
 
 FAQ
 
-[References](/References/)
+[References](/references/)
 
